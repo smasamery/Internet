@@ -4,3 +4,5 @@ generally, a browser is a way to search for information
 software for accessing information on the world wide web
 
 Describe a browser
+
+Components and functions of the internet
