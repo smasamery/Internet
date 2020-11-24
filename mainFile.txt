@@ -6,3 +6,7 @@ software for accessing information on the world wide web
 Describe a browser
 
 Components and functions of the internet
+HTTP
+HTTPS
+FTP
+IP
