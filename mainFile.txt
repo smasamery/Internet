@@ -1,2 +1,4 @@
 What is a browser?
+A browser is software that is used to access the internet. 
+
 Describe a browser
